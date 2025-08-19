@@ -28,7 +28,7 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 - `G` - Select a ground point to show a line imitating in-game ground points
 
 - ## New Features
-- Clicking with Move (1) selected will not move it straight away -- you will need to click on it again to drag. This is because it'll snap to grid without holding alt when editing and selecting whilst moving a micrometer. And that sucks for detailed designing :(
+- Clicking with Move (1) selected will not move it straight away -- you will need to click on it again to drag. This prevents accidentally clicking something and having it snap to a grid
 - Multi-select. Rotate it, scale it, hold shift to toggle how (individually or large-scale)
 - Copy multi-selections, paste it. You know the commands :)
 - Undo/Redo features added. Limit of 150
@@ -37,11 +37,9 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 - It might take a few seconds for menu buttons on your first load to be clickable. This is because I am very unoptimized and there's a lot of functions being loaded. Sorry about that. Please be a bit patient >.>
 - Selecting > 100 objects at once will lag lower-end devices. Again, my apologies!
 - Editing single items via the side menu will not update highlighting
-- Scaling asphalt requires you to set the Y to 1.43 manually afterwards. Go blame the fact asphalt wants to be special and have a Y of 0.143 :/
 - There is an intimidating white square at (-40, -2). Pay it no mind. It won't show in the level
 
 ## Planned Features
-- Visible ground points and connections
 - Menu clarity on objects such as Weapon blocks giving weapon IDs
 - Optimization
 - Tile drawing (i.e. mouse over and drag, and a line of pixels of a certain size will be created beneath the cursor)
@@ -56,7 +54,7 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 3. Open gunsaw and head to the editor to create with the new tools :)
 
 ### Current Version:
-`1.0.0` Beta, thanks for testing!
+`1.0.1` Beta, thanks for testing!
 
 ### Example mod usage video: 
 https://vimeo.com/1111155846?share=copy
