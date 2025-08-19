@@ -25,6 +25,7 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 - `Ctrl + Z` - Undo
 - `Ctrl + Y` - Redo
 - `Capslock` - Bypasses size restrictions for horizontal-locked objects (Asphalt, One-way platforms, Girders, Pipes). This will save and display when playing a level or loading it :)
+- `G` - Select a ground point to show a line imitating in-game ground points
 
 - ## New Features
 - Clicking with Move (1) selected will not move it straight away -- you will need to click on it again to drag. This is because it'll snap to grid without holding alt when editing and selecting whilst moving a micrometer. And that sucks for detailed designing :(
