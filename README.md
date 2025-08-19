@@ -9,6 +9,9 @@ As such, I have combined the best of both worlds and made a mod that hopes to fu
 
 This is current in a very early state, and will have bugs. Join the [Discord server](https://discord.gg/d8xz6mBAab), and enter the [discussion thread](https://ptb.discord.com/channels/955738554129063947/1407174217895645195) to be a part of development!
 
+
+<img width="787" height="795" alt="image" src="https://github.com/user-attachments/assets/164cf396-3e3f-486e-ae43-5dbd133be913" />
+
 # Mod Contents:
 ## New Keybinds
 - `Q` - Selects a `whiteTile`, or default tile to your cursor
@@ -28,7 +31,6 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 - Multi-select. Rotate it, scale it, hold shift to toggle how (individually or large-scale)
 - Copy multi-selections, paste it. You know the commands :)
 - Undo/Redo features added. Limit of 150
-
 
 ## Known Bugs
 - It might take a few seconds for menu buttons on your first load to be clickable. This is because I am very unoptimized and there's a lot of functions being loaded. Sorry about that. Please be a bit patient >.>
@@ -52,6 +54,12 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 
 3. Open gunsaw and head to the editor to create with the new tools :)
 
-## Current Version:
+### Current Version:
 `1.0.0` Beta, thanks for testing!
+
+### Example mod usage video: 
+https://vimeo.com/1111155846?share=copy
+
+
+
 
