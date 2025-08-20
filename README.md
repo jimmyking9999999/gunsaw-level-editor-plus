@@ -26,13 +26,16 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 - `Ctrl + Y` - Redo
 - `Capslock` - Bypasses size restrictions for horizontal-locked objects (Asphalt, One-way platforms, Girders, Pipes). This will save and display when playing a level or loading it :)
 - `G` - Select a ground point to show a line imitating in-game ground points
-
-- ## New Features
+- `O` - Drag to create a perfect circle of tiles. (Shift + click with multi-select on any other object to change objects!)
+  
+## New Features
 - Clicking with Move (1) selected will not move it straight away -- you will need to click on it again to drag. This prevents accidentally clicking something and having it snap to a grid
 - Multi-select. Rotate it, scale it, hold shift to toggle how (individually or large-scale)
 - Copy multi-selections, paste it. You know the commands :)
 - Undo/Redo features added. Limit of 150
-
+- With a multi-selection, `Shift + Click` on the editor to change all blocks into another type of block
+- Upon saving, reorganizes all Enemy weapon changers and Enemy turn arounds to the end of the level/load order, thereby ensuring that the functionality will work 
+  
 ## Known Bugs
 - It might take a few seconds for menu buttons on your first load to be clickable. This is because I am very unoptimized and there's a lot of functions being loaded. Sorry about that. Please be a bit patient >.>
 - Selecting > 100 objects at once will lag lower-end devices. Again, my apologies!
@@ -54,7 +57,7 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 3. Open gunsaw and head to the editor to create with the new tools :)
 
 ### Current Version:
-`1.0.1` Beta, thanks for testing!
+`1.0.2` Beta, thanks for testing!
 
 ### Example mod usage video: 
 https://vimeo.com/1111155846?share=copy
