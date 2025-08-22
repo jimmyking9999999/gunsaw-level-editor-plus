@@ -34,8 +34,11 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 - Copy multi-selections, paste it. You know the commands :)
 - Undo/Redo features added. Limit of 150
 - With a multi-selection, `Shift + Click` on the editor to change all blocks into another type of block
-- Upon saving, reorganizes all Enemy weapon changers and Enemy turn arounds to the end of the level/load order, thereby ensuring that the functionality will work 
-  
+- Upon saving, reorganizes all Enemy weapon changers and Enemy turn arounds to the end of the level/load order, thereby ensuring that the functionality will work
+- Shift + dragging right click allows you to set Target X/Y positions for objects such as doors, moving walls, hidden doors, and striped doors, door changer triggers, upon selection
+- One-click level select! New button to load a constantly-updating repository of levels online :)
+<img width="619" height="503" alt="image" src="https://github.com/user-attachments/assets/30dd9018-640c-4fa8-9da5-25f3d8be29c0" />
+ 
 ## Known Bugs
 - It might take a few seconds for menu buttons on your first load to be clickable. This is because I am very unoptimized and there's a lot of functions being loaded. Sorry about that. Please be a bit patient >.>
 - Selecting > 100 objects at once will lag lower-end devices. Again, my apologies!
@@ -57,7 +60,7 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 3. Open gunsaw and head to the editor to create with the new tools :)
 
 ### Current Version:
-`1.0.2` Beta, thanks for testing!
+`1.0.3` Beta, thanks for testing!
 
 ### Example mod usage video: 
 https://vimeo.com/1111155846?share=copy
