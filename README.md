@@ -26,18 +26,23 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 - `Ctrl + Y` - Redo
 - `Capslock` - Bypasses size restrictions for horizontal-locked objects (Asphalt, One-way platforms, Girders, Pipes). This will save and display when playing a level or loading it :)
 - `G` - Select a ground point to show a line imitating in-game ground points
-- `O` - Drag to create a perfect circle of tiles. (Shift + click with multi-select on any other object to change objects!)
+- `O` - Drag to create a perfect circle of tiles.
+- `Ctrl + T` - Create a template. Templates are saved groups of objects saved as JSON files that you can share with other people. Right click to delete or rename
+
   
 ## New Features
 - Clicking with Move (1) selected will not move it straight away -- you will need to click on it again to drag. This prevents accidentally clicking something and having it snap to a grid
 - Multi-select. Rotate it, scale it, hold shift to toggle how (individually or large-scale)
 - Copy multi-selections, paste it. You know the commands :)
 - Undo/Redo features added. Limit of 150
+- GUID on objects, allowing for custom object support whilst maintaining vanilla playability
 - With a multi-selection, `Shift + Click` on the editor to change all blocks into another type of block
 - Upon saving, reorganizes all Enemy weapon changers and Enemy turn arounds to the end of the level/load order, thereby ensuring that the functionality will work
 - Shift + dragging right click allows you to set Target X/Y positions for objects such as doors, moving walls, hidden doors, and striped doors, door changer triggers, upon selection
+- Shift + click with multi-select on any other object in the bottom menu to change objects, i.e. from tiles to ice
 - One-click level select! New button to load a constantly-updating repository of levels online :)
 <img width="619" height="503" alt="image" src="https://github.com/user-attachments/assets/30dd9018-640c-4fa8-9da5-25f3d8be29c0" />
+
  
 ## Known Bugs
 - It might take a few seconds for menu buttons on your first load to be clickable. This is because I am very unoptimized and there's a lot of functions being loaded. Sorry about that. Please be a bit patient >.>
@@ -46,8 +51,8 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 - There is an intimidating white square at (-40, -2). Pay it no mind. It won't show in the level
 
 ## Planned Features
-- Menu clarity on objects such as Weapon blocks giving weapon IDs
-- Optimization
+- Menu clarity / tooltips / tutorials
+- Two online collaborative servers for editing
 - Tile drawing (i.e. mouse over and drag, and a line of pixels of a certain size will be created beneath the cursor)
 
 ## Installation
@@ -60,7 +65,7 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 3. Open gunsaw and head to the editor to create with the new tools :)
 
 ### Current Version:
-`1.0.3` Beta, thanks for testing!
+`1.0.4` Beta, thanks for testing!
 
 ### Example mod usage video: 
 https://vimeo.com/1111155846?share=copy
