@@ -45,9 +45,7 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 
  
 ## Known Bugs
-- It might take a few seconds for menu buttons on your first load to be clickable. This is because I am very unoptimized and there's a lot of functions being loaded. Sorry about that. Please be a bit patient >.>
 - Selecting > 100 objects at once will lag lower-end devices. Again, my apologies!
-- Editing single items via the side menu will not update highlighting
 - There is an intimidating white square at (-40, -2). Pay it no mind. It won't show in the level
 
 ## Planned Features
