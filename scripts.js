@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const baseName = level.name.split(/\||\(|:/)[0].trim() + '.png';
             const imageUrl = 'Images/' + baseName;
 
-            card.style.backgroundImage = `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('${imageUrl}')`;
+             card.style.backgroundImage = `linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url('${imageUrl}')`;
 
             card.innerHTML = `
                 <h2>${level.name}</h2>
@@ -79,4 +79,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
         renderLevels(filteredLevels);
     });
+
 });
