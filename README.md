@@ -5,13 +5,23 @@ Hello, all!
 
 Gunsaw recently allowed modding due to being discontinued, and released a new incomplete level editor alongside that.
 
-As such, I have combined the best of both worlds and made a mod that hopes to fully give functionality to the level editor ^^
+As such, I have combined the best of both worlds and made a mod that hopes to fully give functionality to the level editor, as well as a online level database ^^
 
 This is current in a very early state, and will have bugs. Join the [Discord server](https://discord.gg/d8xz6mBAab), and enter the [discussion thread](https://ptb.discord.com/channels/955738554129063947/1407174217895645195) to be a part of development!
 
 
 <img width="787" height="795" alt="image" src="https://github.com/user-attachments/assets/164cf396-3e3f-486e-ae43-5dbd133be913" />
 
+# Installation
+1. Find your Gunsaw folder. 
+- For itch.io app users, this is `~\AppData\Roaming\itch\apps\gunsaw-demo`
+- For manual web download, this is wherever you extracted the .zip file into
+
+2. Go to the `gunsaw-demo\Gunsaw_Data\Managed` folder, and replace Assembly-CSharp.dll with the latest download (Assembly-CSharp.dll on this github repository)
+
+3. Open gunsaw and head to the editor to create with the new tools :)
+
+   
 # Mod Contents:
 ## New Keybinds
 - `Q` - Selects a `whiteTile`, or default tile to your cursor
@@ -43,27 +53,22 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 - One-click level select! New button to load a constantly-updating repository of levels online :)
 <img width="619" height="503" alt="image" src="https://github.com/user-attachments/assets/30dd9018-640c-4fa8-9da5-25f3d8be29c0" />
 
+## Level Database:
+- For folks who do not wish to download the mod, a Github Pages with a level browser is available at: https://jimmyking9999999.github.io/gunsaw-level-editor-plus
+<img width="1596" height="634" alt="image" src="https://github.com/user-attachments/assets/4787aa96-270a-4861-b8bc-4a29e81948fb" />
+
  
 ## Known Bugs
-- Selecting > 100 objects at once will lag lower-end devices. Again, my apologies!
-- There is an intimidating white square at (-40, -2). Pay it no mind. It won't show in the level
+- There is an intimidating white square at (-40, -2). I'm not quite sure why it's still there, but it won't show up during the level >.<;
 
 ## Planned Features
 - Menu clarity / tooltips / tutorials
 - Two online collaborative servers for editing
 - Tile drawing (i.e. mouse over and drag, and a line of pixels of a certain size will be created beneath the cursor)
 
-## Installation
-1. Find your Gunsaw folder. 
-- For itch.io app users, this is `~\AppData\Roaming\itch\apps\gunsaw-demo`
-- For manual web download, this is wherever you extracted the .zip file into
 
-2. Go to the `gunsaw-demo\Gunsaw_Data\Managed` folder, and replace Assembly-CSharp.dll with the latest download (Assembly-CSharp.dll on this github repository)
 
-3. Open gunsaw and head to the editor to create with the new tools :)
-
-### Current Version:
-`1.0.4` Beta, thanks for testing!
+`v1.0.4`
 
 ### Example mod usage video: 
 https://vimeo.com/1111155846?share=copy
