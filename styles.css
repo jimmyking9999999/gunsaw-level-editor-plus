@@ -1,0 +1,133 @@
+body {
+    font-family: 'Lexend', sans-serif;
+    margin: 0;
+    padding: 2em;
+    background-color: #f0f2f5;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #1a1a1a;
+}
+
+#levels-container {
+    display: grid;
+    /* This is the line to change */
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5em;
+    max-width: 1200px;
+    margin: 2em auto;
+}
+
+.search-container {
+    text-align: center;
+    margin: 0 auto 2.5em auto;
+}
+
+#search-bar {
+    width: 60%;
+    max-width: 600px;
+    padding: 0.8em 1.2em;
+    font-size: 1.1em;
+    border-radius: 30px; 
+    border: 1px solid #ccc;
+    outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+#search-bar:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 8px rgba(0, 123, 255, 0.5);
+}
+
+.no-results {
+    color: #000000;
+    font-size: 1.5em;
+    text-align: center;
+    grid-column: 1 / -1; 
+}
+
+
+.level-card {
+    color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 1.5em;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s; /* Add a nice hover effect owo */
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.level-card:hover {
+    transform: translateY(-5px); 
+}
+
+.level-card h2, .level-card p {
+    color: #ffffff;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+    /* Might need to be more pronounced? */
+}
+
+.level-card h2 {
+    font-size: 1.25em;
+    margin: 0 0 0.5em 0;
+}
+
+.level-card p {
+    margin: 0.25em 0;
+}
+
+.level-card p strong {
+    font-weight: bold;
+}
+
+.copy-button {
+    margin-top: 1em;
+    padding: 0.75em 1em;
+    font-size: 1em;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    opacity: 0.95;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.copy-button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    text-align: center;
+    margin-top: 3em;
+    padding: 2em;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer p {
+    margin: 0.5em 0;
+    line-height: 1.6;
+    color: #555;
+}
+
+footer a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
