@@ -34,7 +34,7 @@
       "length": "long",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": "Finishing this mission is an achievement in itself."
+      "info": ""
     },
     {
       "name": "Stealth Operation: The Vault",
@@ -43,7 +43,7 @@
       "length": "medium",
       "difficulty": "difficult",
       "type": "challenge",
-      "info": "Your stealth mission is to infiltrate and destroy their Vault. Any character can be used in this mission and there will be level design that will benefit those characters. You are free to look at the map to route your path to a mission success. Killing all enemies is an optional challenge."
+      "info": ""
     },
     {
       "name": "The Motel (WIP)",
