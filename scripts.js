@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const card = document.createElement('div');
             card.className = 'level-card';
 
-            const baseName = level.name.split(/\||\(|:/)[0].trim() + '.png';
+            const baseName = level.name.split(/\||\(|:/)[0].trim().replace(/'/g, '') + '.png';
             const imageUrl = 'Images/' + baseName;
 
              card.style.backgroundImage = `linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url('${imageUrl}')`;
