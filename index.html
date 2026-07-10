@@ -9,9 +9,28 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <div class="theme-toggle">
+        <button type="button" id="theme-toggle-button" aria-label="Toggle night mode" aria-pressed="false">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M12 8.25A3.75 3.75 0 1 0 12 15.75 3.75 3.75 0 0 0 12 8.25ZM12 6.75A5.25 5.25 0 1 1 12 17.25 5.25 5.25 0 0 1 12 6.75ZM12 1.75a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-1.5 0V2.5A.75.75 0 0 1 12 1.75ZM12 19.25a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-1.5 0V20A.75.75 0 0 1 12 19.25ZM22.25 12a.75.75 0 0 1-.75.75H20a.75.75 0 0 1 0-1.5h1.5a.75.75 0 0 1 .75.75ZM4 12a.75.75 0 0 1-.75.75h-1.5a.75.75 0 0 1 0-1.5h1.5A.75.75 0 0 1 4 12ZM18.894 5.106a.75.75 0 0 1 0 1.06l-1.061 1.061a.75.75 0 1 1-1.06-1.06l1.06-1.061a.75.75 0 0 1 1.061 0ZM7.227 16.773a.75.75 0 0 1 0 1.06l-1.061 1.061a.75.75 0 0 1-1.06-1.06l1.06-1.061a.75.75 0 0 1 1.061 0ZM18.894 18.894a.75.75 0 0 1-1.06 0l-1.061-1.06a.75.75 0 1 1 1.06-1.061l1.061 1.06a.75.75 0 0 1 0 1.061ZM7.227 7.227a.75.75 0 0 1-1.06 0L5.105 6.166a.75.75 0 1 1 1.061-1.06l1.06 1.06a.75.75 0 0 1 0 1.061Z" />
+                <path fill-rule="evenodd" d="M9.528 1.718a.75.75 0 0 1 .162.819A8.97 8.97 0 0 0 9 6a9 9 0 0 0 9 9 8.97 8.97 0 0 0 3.463-.69.75.75 0 0 1 .981.98 10.503 10.503 0 0 1-9.694 6.46c-5.799 0-10.5-4.701-10.5-10.5 0-4.368 2.667-8.112 6.46-9.694a.75.75 0 0 1 .818.162Z" clip-rule="evenodd" />
+            </svg>
+        </button>
+    </div>
     <br> </br>
      <div class="search-container">
         <input type="text" id="search-bar" placeholder="Search by name, author, difficulty...">
+        <select id="sort-field" aria-label="Sort levels by">
+            <option value="date" selected>Date</option>
+            <option value="author">Author</option>
+            <option value="size">Size</option>
+            <option value="difficulty">Difficulty</option>
+            <option value="length">Length</option>
+        </select>
+        <div class="sort-direction" aria-label="Sort direction">
+            <button type="button" class="sort-direction-button active" data-direction="desc">Desc</button>
+            <button type="button" class="sort-direction-button" data-direction="asc">Asc</button>
+        </div>
     </div>
     
     <div id="levels-container">
