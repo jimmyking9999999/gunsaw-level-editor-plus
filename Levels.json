@@ -7,7 +7,8 @@
       "length": "long",
       "difficulty": "difficult",
       "type": "hybrid",
-      "info": ""
+      "info": "",
+      "date": "2025-09-05"
     },
     {
       "name": "Magnum Opus",
@@ -16,7 +17,8 @@
       "length": "long",
       "difficulty": "nightmare",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-19"
     },
     {
       "name": "Lobotomy Facility Reclamation",
@@ -25,7 +27,8 @@
       "length": "long",
       "difficulty": "nightmare",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-11-06"
     },
     {
       "name": "Hijack The Ship",
@@ -34,7 +37,8 @@
       "length": "long",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-11-15"
     },
     {
       "name": "Get Your Paws Wet",
@@ -43,7 +47,8 @@
       "length": "long",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-02-12"
     },
     {
       "name": "Point Blank",
@@ -52,7 +57,8 @@
       "length": "long",
       "difficulty": "hard",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-03-01"
     },
     {
       "name": "Arctic Facility (modded)",
@@ -61,7 +67,8 @@
       "length": "extra long",
       "difficulty": "hard",
       "type": "hybrid",
-      "info": "modded"
+      "info": "modded",
+      "date": "2026-03-24"
     },
     {
       "name": "Glacial Spire (modded)",
@@ -70,7 +77,8 @@
       "length": "long",
       "difficulty": "hard",
       "type": "elimination",
-      "info": "modded"
+      "info": "modded",
+      "date": "2026-06-05"
     },
     {
       "name": "Demolition",
@@ -79,7 +87,8 @@
       "length": "long",
       "difficulty": "hard",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-04-08"
     },
     {
       "name": "Lammfleisch",
@@ -88,7 +97,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-04-17"
     },
     {
       "name": "Fearfulness",
@@ -97,7 +107,8 @@
       "length": "medium",
       "difficulty": "hard",
       "type": "parkour",
-      "info": ""
+      "info": "",
+      "date": "2026-07-09"
     },
     {
       "name": "Fortress Pass",
@@ -106,7 +117,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-04-17"
     },
     {
       "name": "Train Madness",
@@ -115,7 +127,8 @@
       "length": "medium",
       "difficulty": "hard",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-04-17"
     },
     {
       "name": "Agency's Bad Day",
@@ -124,7 +137,8 @@
       "length": "long",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-04-26"
     },
     {
       "name": "Deep Dive",
@@ -133,7 +147,8 @@
       "length": "long",
       "difficulty": "nightmare",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-07-09"
     },
     {
       "name": "Stealth Operation: The Vault",
@@ -142,7 +157,8 @@
       "length": "medium",
       "difficulty": "difficult",
       "type": "challenge",
-      "info": ""
+      "info": "",
+      "date": "2025-08-22"
     },
     {
       "name": "Amalgam",
@@ -151,7 +167,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "challenge",
-      "info": ""
+      "info": "",
+      "date": "2026-05-07"
     },
     {
       "name": "Timelost Workings",
@@ -160,7 +177,8 @@
       "length": "short",
       "difficulty": "difficult",
       "type": "parkour",
-      "info": ""
+      "info": "",
+      "date": "2026-03-03"
     },
     {
       "name": "The Motel (WIP)",
@@ -169,7 +187,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "elimination",
-      "info": "fun"
+      "info": "fun",
+      "date": "2025-08-20"
     },
     {
       "name": "Insecticide",
@@ -178,7 +197,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-11-15"
     },
     {
       "name": "The Factory Cp. 1",
@@ -187,7 +207,8 @@
       "length": "medium",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "The Factory Cp. 2",
@@ -196,7 +217,8 @@
       "length": "short",
       "difficulty": "easy",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Ska's Industrious Gauntlet",
@@ -205,7 +227,8 @@
       "length": "long",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-05-15"
     },
     {
       "name": "Foundry",
@@ -214,7 +237,8 @@
       "length": "long",
       "difficulty": "difficult",
       "type": "challenge",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Kill House (WIP)",
@@ -223,7 +247,8 @@
       "length": "endless",
       "difficulty": "normal",
       "type": "sandbox",
-      "info": "fun"
+      "info": "fun",
+      "date": "2025-08-20"
     },
     {
       "name": "Blender",
@@ -232,7 +257,8 @@
       "length": "short",
       "difficulty": "easy",
       "type": "sandbox",
-      "info": "fun"
+      "info": "fun",
+      "date": "2025-08-20"
     },
     {
       "name": "Plasma Burst Level 1",
@@ -241,7 +267,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Plasma Burst Level 2",
@@ -250,7 +277,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Jump-Rope-Saw",
@@ -259,7 +287,8 @@
       "length": "endless",
       "difficulty": "easy",
       "type": "challenge",
-      "info": "fun"
+      "info": "fun",
+      "date": "2025-08-20"
     },
     {
       "name": "Time Trials - House Arrest",
@@ -268,7 +297,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "challenge",
-      "info": "fun"
+      "info": "fun",
+      "date": "2025-08-20"
     },
     {
       "name": "Iota 3 Facility (v2)",
@@ -277,7 +307,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "bile epidemic",
@@ -286,7 +317,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-03-03"
     },
     {
       "name": "Abandoned orange juice factory",
@@ -295,7 +327,8 @@
       "length": "medium",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": "fun"
+      "info": "fun",
+      "date": "2025-08-20"
     },
     {
       "name": "The Pit",
@@ -304,7 +337,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Operation Daybreak",
@@ -313,7 +347,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Jailbreak (v2)",
@@ -322,7 +357,8 @@
       "length": "medium",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Shadow of A Colossus",
@@ -331,7 +367,8 @@
       "length": "long",
       "difficulty": "difficult",
       "type": "challenge",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Leapy jump - Alpha course",
@@ -340,7 +377,8 @@
       "length": "short",
       "difficulty": "easy",
       "type": "parkour",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Leapy jump - Beta site climb",
@@ -349,7 +387,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "parkour",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Leapy jump - CART trials",
@@ -358,7 +397,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "parkour",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Leapy jump - Direct assault",
@@ -367,7 +407,8 @@
       "length": "medium",
       "difficulty": "difficult",
       "type": "parkour",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Leapy jump - Extraction",
@@ -376,7 +417,8 @@
       "length": "medium",
       "difficulty": "nightmare",
       "type": "parkour",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Leapy jump - Founder of the sentinel",
@@ -385,7 +427,8 @@
       "length": "short",
       "difficulty": "nightmare",
       "type": "parkour",
-      "info": ""
+      "info": "",
+      "date": "2025-08-27"
     },
     {
       "name": "Survival - Infiltration problems",
@@ -394,7 +437,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "other",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Speedrun - Fresh breath of air",
@@ -403,7 +447,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "parkour",
-      "info": ""
+      "info": "",
+      "date": "2025-09-21"
     },
     {
       "name": "Time Trials - 2x",
@@ -412,7 +457,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-09-21"
     },
     {
       "name": "Mount ditch (WIP)",
@@ -421,7 +467,8 @@
       "length": "long",
       "difficulty": "normal",
       "type": "elimination",
-      "info": "fun"
+      "info": "fun",
+      "date": "2025-08-22"
     },
     {
       "name": "Strange office building",
@@ -430,7 +477,8 @@
       "length": "medium",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-23"
     },
     {
       "name": "Totally Easy Level",
@@ -439,7 +487,8 @@
       "length": "short",
       "difficulty": "easy",
       "type": "elimination",
-      "info": "fun"
+      "info": "fun",
+      "date": "2025-08-20"
     },
     {
       "name": "Gs map 2 v1.1",
@@ -448,7 +497,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "elimination",
-      "info": "fun"
+      "info": "fun",
+      "date": "2025-08-27"
     },
     {
       "name": "Industrial boilers",
@@ -457,7 +507,8 @@
       "length": "medium",
       "difficulty": "hard",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-27"
     },
     {
       "name": "Moon Berry | Chik Tutorial Map",
@@ -466,7 +517,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "parkour",
-      "info": "fun"
+      "info": "fun",
+      "date": "2025-08-27"
     },
     {
       "name": "Up",
@@ -475,7 +527,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-20"
     },
     {
       "name": "Barotrauma",
@@ -484,7 +537,8 @@
       "length": "long",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-09-06"
     },
     {
       "name": "Undefined",
@@ -493,7 +547,8 @@
       "length": "medium",
       "difficulty": "hard",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-08-27"
     },
     {
       "name": "Trigger (modded)",
@@ -502,7 +557,8 @@
       "length": "medium",
       "difficulty": "hard",
       "type": "elimination",
-      "info": "modded"
+      "info": "modded",
+      "date": "2026-03-03"
     },
     {
       "name": "Endless mode (modded)",
@@ -511,7 +567,8 @@
       "length": "endless",
       "difficulty": "hard",
       "type": "elimination",
-      "info": "modded"
+      "info": "modded",
+      "date": "2025-11-14"
     },
     {
       "name": "Experiments",
@@ -520,7 +577,8 @@
       "length": "long",
       "difficulty": "hard",
       "type": "sandbox",
-      "info": ""
+      "info": "",
+      "date": "2025-10-06"
     },
     {
       "name": "Foray",
@@ -529,7 +587,8 @@
       "length": "medium",
       "difficulty": "hard",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-10-06"
     },
     {
       "name": "Ch1Lvl1 No Turning Back",
@@ -538,7 +597,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-09-19"
     },
     {
       "name": "Ch1Lvl2 Water Reserve",
@@ -547,7 +607,8 @@
       "length": "medium",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-09-19"
     },
     {
       "name": "Ch1Lvl3 Mountain Face Struggle",
@@ -556,7 +617,8 @@
       "length": "long",
       "difficulty": "nightmare",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-09-19"
     },
     {
       "name": "Crasher",
@@ -565,7 +627,8 @@
       "length": "long",
       "difficulty": "nightmare",
       "type": "elimination..?",
-      "info": ""
+      "info": "",
+      "date": "2025-09-12"
     },
     {
       "name": "FIVE (Unfinished Release Ver.)",
@@ -574,7 +637,8 @@
       "length": "long",
       "difficulty": "medium",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-07-09"
     },
     {
       "name": "Resonance 1.1 - No one rides for free",
@@ -583,7 +647,8 @@
       "length": "long",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2025-12-21"
     },
     {
       "name": "Refinery (modded)",
@@ -592,7 +657,8 @@
       "length": "long",
       "difficulty": "difficult",
       "type": "elimination",
-      "info": "modded"
+      "info": "modded",
+      "date": "2025-12-27"
     },
     {
       "name": "Wave Survival",
@@ -601,7 +667,8 @@
       "length": "short",
       "difficulty": "hard",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-01-17"
     },
     {
       "name": "milky labs",
@@ -610,7 +677,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-06-15"
     },
     {
       "name": "The Dam",
@@ -619,7 +687,8 @@
       "length": "long",
       "difficulty": "nightmare",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-06-13"
     },
     {
       "name": "Launch Protocol",
@@ -628,7 +697,8 @@
       "length": "short",
       "difficulty": "easy",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-07-07"
     },
     {
       "name": "GreenLake City",
@@ -637,7 +707,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-07-04"
     },
     {
       "name": "Soyuz",
@@ -646,7 +717,8 @@
       "length": "short",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-07-09"
     },
     {
       "name": "behind enemy lines",
@@ -655,7 +727,8 @@
       "length": "long",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-07-04"
     },
     {
       "name": "Substructure",
@@ -664,8 +737,8 @@
       "length": "medium",
       "difficulty": "normal",
       "type": "elimination",
-      "info": ""
+      "info": "",
+      "date": "2026-07-07"
     }
-    
   ]
 }
