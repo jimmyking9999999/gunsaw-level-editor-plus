@@ -47,7 +47,6 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 - Upon saving, reorganizes all Enemy weapon changers and Enemy turn arounds to the end of the level/load order, thereby ensuring that the functionality will work
 - Shift + dragging right click allows you to set Target X/Y positions for objects such as doors, moving walls, hidden doors, and striped doors, door changer triggers, upon selection
 - Shift + click with multi-select on any other object in the bottom menu to change objects, i.e. from tiles to ice
-- Multiplayer online collaboration. Click on the 'Join Collaboration' button and enter a room name to join or create a room
 - One-click level select! New button to load a constantly-updating repository of levels online :)
 <img width="619" height="503" alt="image" src="https://github.com/user-attachments/assets/30dd9018-640c-4fa8-9da5-25f3d8be29c0" />
 
@@ -62,14 +61,6 @@ This is current in a very early state, and will have bugs. Join the [Discord ser
 ## Planned Features
 - Menu clarity / tooltips / tutorials 
 - Tile drawing (i.e. mouse over and drag, and a line of pixels of a certain size will be created beneath the cursor)
-
-
-
-`v1.0.5`
-
-### Example mod usage video: 
-https://vimeo.com/1111155846?share=copy
-
 
 
 
