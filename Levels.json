@@ -1389,6 +1389,16 @@
       "type": "fun",
       "info": "",
       "date": "2026-10-11"
+    },
+    {
+      "name": "Roza Torture Simulator(RTS)",
+      "author": "SAW-06-980208 \"STURM\"",
+      "code": "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",
+      "length": "endless",
+      "difficulty": "easy",
+      "type": "fun",
+      "info": "",
+      "date": "2026-10-12"
     }
   ]
 }
